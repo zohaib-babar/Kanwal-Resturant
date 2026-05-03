@@ -1,9 +1,7 @@
 import KanwalRestaurant from './KanwalRestaurant';
 
 function App() {
-  return (
-    < KanwalRestaurant/>
-  );
+  return <KanwalRestaurant />;
 }
 
 export default App;
